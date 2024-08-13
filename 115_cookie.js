@@ -1,6 +1,6 @@
 [rewrite_local]
-# 115生活App 获取 Cookies
-^https:\/\/webapi\.115\.com\/user\/signin.*$ url script-request-header 115_get_cookie.js
+# 获取115生活app账号Cookies
+^https:\/\/.*\.115\.com\/.* path 115_get_cookies.js
 
 [mitm]
-hostname = webapi.115.com
+hostname = *.115.com
