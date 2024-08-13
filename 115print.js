@@ -5,7 +5,7 @@ const cookieVal = chen.getdata(cookieKey)
 
 console.log(`115 cookies: ${cookieVal}`)
 
-chen.msg('115', '打印cookies成功', `cookies: ${cookieVal}`)
+chen.msg('115', '打印cookies成功', ` ${cookieVal}`)
 
 function init() {
   isSurge = () => {
