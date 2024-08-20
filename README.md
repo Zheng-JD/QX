@@ -1,2 +1,2 @@
-# QX
-我的Quantumult X脚本仓库
+# QuantumultX 和 Loon 自用脚本、配置等
+
