@@ -8,4 +8,4 @@
 http-request ^https?:\/\/my\.115\.com\/proapi\/3\.0\/index\.php\?method=check_secret_token script-path=https://raw.githubusercontent.com/Zheng-JD/X/main/script/115cookies.js, tag=115Cookie
 
 [MITM]
-hostname = my.115.com
+hostname = my.115.com, 115.com
