@@ -1,0 +1,11 @@
+#!name=115 Cookie
+#!desc=获取115 cookies
+#!homepage=https://github.com/Zheng-JD/X
+#!author=zhengjiadong
+#!icon=https://raw.githubusercontent.com/Zheng-JD/X/main/icon/115.png
+
+[Script]
+http-request ^https?:\/\/vip\.115\.com\/tb\/vipinfo\/ script-path=https://raw.githubusercontent.com/Zheng-JD/X/main/Plugin/115_cookie.js, requires-body=true, timeout=10, tag=115Cookie
+
+[MITM]
+hostname = vip.115.com
