@@ -4,20 +4,20 @@
  {"name": "115",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/115.png"},
 
- {"name": "arc",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/arc.png"},
+ {"name": "Arc",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Arc.png"},
 
- {"name": "b612",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/b612.png"},
+ {"name": "B612",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/B612.png"},
 
-  {"name": "gentler",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/gentler.png"},
+  {"name": "Gentler",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Gentler.png"},
 
-   {"name": "retake",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/retake.png"},
+   {"name": "Retake",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Retake.png"},
 
-   {"name": "speedtest",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/speedtest.png"},
+   {"name": "Speedtest",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Speedtest.png"},
 
    {"name": "beike",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/beike.png"},
@@ -46,8 +46,38 @@
    {"name": "koutu",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/koutu.png"},
 
-   {"name": "名称",
-  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/名称.png"},
+   {"name": "meituan",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meituan.png"},
 
+     {"name": "meituanshenhuo",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meituanshenhuo.png"},
+
+  {"name": "meiyanxianji",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meiyanxianji.png"},
+
+  {"name": "pinduoduo",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/pinduoduo.png"},
+
+  {"name": "qishuiyinyue",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/qishuiyinyue.png"},
+
+  {"name": "shenmezhidemai",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/shenmezhidemai.png"},
+
+  {"name": "soul",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/soul.png"},
+
+  {"name": "xianyu",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/xianyu.png"},
+
+{"name": "yijia",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/yijia.png"},
+
+  {"name": "zhihu",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/zhihu.png"},
+
+  {"name": "zhuanzhuan",
+"url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/zhuanzhuan.png"},
+  
     ]
 }
