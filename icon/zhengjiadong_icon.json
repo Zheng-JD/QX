@@ -1,6 +1,21 @@
 {"name": "zhengjiadongの图标库",
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
+ {"name": "meituxiuxiu",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meituxiuxiu.png"},
+
+   {"name": "meiyan",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meiyan.png"},
+
+   {"name": "qinyan",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/qinyan.png"},
+
+   {"name": "xiguandiandian",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/xiguandiandian.png"},
+  
+ {"name": "Slidebox",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Slidebox.png"},
+  
  {"name": "115",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/115.png"},
 
