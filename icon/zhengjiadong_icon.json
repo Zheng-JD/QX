@@ -1,6 +1,13 @@
 {"name": "zhengjiadongの图标库",
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
+
+   {"name": "Sleep-Cycle",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Sleep-Cycle.png"},
+
+ {"name": "pillow",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/pillow.png"},
+  
  {"name": "meituxiuxiu",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/meituxiuxiu.png"},
 
