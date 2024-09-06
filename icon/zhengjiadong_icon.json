@@ -2,6 +2,15 @@
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
 
+    {"name": "pillownew",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/pillownew.png"},
+
+      {"name": "chaoxi",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/chaoxi.png"},
+
+      {"name": "xiaoshoufu",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/xiaoshoufu.png"},
+  
    {"name": "Sleep-Cycle",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/Sleep-Cycle.png"},
 
