@@ -2,6 +2,10 @@
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
 
+
+    {"name": "V2EX",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/V2EX.png"},
+
     {"name": "pillownew",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/pillownew.png"},
 
