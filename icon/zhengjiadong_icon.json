@@ -2,6 +2,9 @@
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
 
+    {"name": "AD",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/AD.png"},
+  
     {"name": "1Blocker",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/1Blocker.png"},
   
