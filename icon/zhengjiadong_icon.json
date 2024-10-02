@@ -2,6 +2,9 @@
  "description": "收集app图标文件，仅自用，不作商用用途。", 
  "icons": [
 
+    {"name": "AI-Cleaner",
+  "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/AI-Cleaner.png"},
+  
     {"name": "AD",
   "url": "https://raw.githubusercontent.com/Zheng-JD/X/main/icon/AD.png"},
   
